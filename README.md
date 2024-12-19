@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Larzai-Store-Web
 # Larzai-Store-Web
 # Larzai-Store-Web
+# Larzai-Store-Web
